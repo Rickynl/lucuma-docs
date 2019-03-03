@@ -1,3 +1,8 @@
 lucuma
 ------
-este es unproyecto para divertirnos
+este es unproyecto para divertirno
+
+creditos:
+--------
+	*Rosa Maria
+	*Barata
